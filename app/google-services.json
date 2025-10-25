@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "1035579075862",
-    "project_id": "ucbapp-336c0",
-    "storage_bucket": "ucbapp-336c0.firebasestorage.app"
+    "project_number": "217610084838",
+    "firebase_url": "https://ucbapp-f759d-default-rtdb.firebaseio.com",
+    "project_id": "ucbapp-f759d",
+    "storage_bucket": "ucbapp-f759d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1035579075862:android:868c394383ee65d32cf437",
+        "mobilesdk_app_id": "1:217610084838:android:bc247726a5de7d4a18b627",
         "android_client_info": {
           "package_name": "com.calyrsoft.ucbp1"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB49mXo-yiWKd6xAIL4vNUVZK-z5XPSxn8"
+          "current_key": "AIzaSyBM5KdeSFFPIqBleOJ0wDP-gHRquHl9_FE"
         }
       ],
       "services": {
